@@ -475,6 +475,7 @@ ArcGIS REST Services:
 ### Badan Restorasi Gambut (BRG)
 Geoportal PALAPA: 
 * http://brg.ina-sdi.or.id
+* https://prims.brg.go.id
 
 ArcGIS Portal:
 
